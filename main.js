@@ -13,3 +13,7 @@ accountCity = "Jaipur"
 
  console.table([accountId, accountEmail, accountPassword, accountCity]);
  
+function Array() {
+    const arry = [1,2,3]
+     console.log(arry)
+}
